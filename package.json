@@ -1,0 +1,27 @@
+{
+  "name": "karma-fixture-to-angular-module-preprocessor",
+  "version": "0.1.0",
+  "description": "A Karma plugin - Preprocesses a directory of json files to an angular module.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "angular",
+    "jasmine"
+  ],
+  "author": {
+    "name": "Eric Stolten",
+    "email": "stoltene2@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "Apache-2",
+  "directories": {},
+  "readme": "See Readme.md"
+}
